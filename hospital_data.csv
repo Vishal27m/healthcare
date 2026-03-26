@@ -1,0 +1,6 @@
+hospital,zone,total_beds,ventilators,available_beds
+Hospital_1,Zone_1,178,29,63
+Hospital_2,Zone_9,93,44,64
+Hospital_3,Zone_3,96,12,37
+Hospital_4,Zone_8,179,23,61
+Hospital_5,Zone_4,149,18,102

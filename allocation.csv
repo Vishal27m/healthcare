@@ -1,0 +1,5 @@
+from_zone,to_zone,beds_transferred
+Zone_4,Zone_1,4
+Zone_4,Zone_3,1
+Zone_8,Zone_3,2
+Zone_9,Zone_3,3
